@@ -213,7 +213,9 @@ h3
   margin-left: 0;
   border-radius: 1%;
 }
-#google img
+#google 
 {
-  width: 100%;
+  width: 150%;
+    height: 10em;
+    text-align: left;
 }
